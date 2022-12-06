@@ -23,6 +23,7 @@ I believe that I have the ability to learn and gain new skills and become a prof
 * CSS
 * Git
 * JavaScript (Basic)
+* Figma
 
 ## **Code Example**
 ```

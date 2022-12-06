@@ -38,7 +38,8 @@ Belarusian State University, Faculty of Philology - 2022
 * HTML and CSS basic courses on the [Hexlet](https://ru.hexlet.io/my) (completed)
 * RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 
-## **Foreign languages**
+## **Languages**
+* Russian - Native
 * English - B1
 * Italian - C1
 * French - B1
